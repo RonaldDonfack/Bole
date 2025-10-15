@@ -1,9 +1,9 @@
 ## Members of the Group
-Ronald DONFACK
-Kolawolé GBADAMASSI
-Durich-Nathan ETCHENDA-MBOUMBA
-Marc-Yanel DODOO
-Lionel MONTEIRO WORA
+* Ronald DONFACK
+* Kolawolé GBADAMASSI
+* Durich-Nathan ETCHENDA-MBOUMBA
+* Marc-Yanel DODOO
+* Lionel MONTEIRO WORA
 
 
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
